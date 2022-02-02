@@ -1,0 +1,26 @@
+body {
+    font-family: "Muli", Helvetica, Arial, sans-serif;
+}
+
+
+.error {
+  font-weight: bold;
+  color: #FF0000;
+}
+
+
+header, footer {
+    background-color: #0a1f41;
+}
+
+.bodyColor {
+    background-color: #1e3260;
+}
+
+header.bg-primary {
+    background-color: #0a1f41 !important;
+}
+
+nav.bg-dark {
+    background-color: #0a1f41 !important;
+}
